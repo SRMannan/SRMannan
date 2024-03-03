@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 #### 🌱 Skills: ML | OpenCV | Git | Flask | Data Structures and Algorithms
 
  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@SharanyaMannan&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/sharanya-mannan-467937231/)
- [![Facebook](https://img.shields.io/static/v1.svg?label=Codeforces&message=@SharanyaMannan&logo=facebook&style=flat&color=blue)](https://codeforces.com/profile/SharanyaRMannan)
+ [![Facebook](https://img.shields.io/static/v1.svg?label=Codeforces&message=@SharanyaMannan&logo=Codeforces&style=flat&color=green)](https://codeforces.com/profile/SharanyaRMannan)
 
 ### :gear: My skills include:
 
