@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### :gear: My skills include:
 
-- **Languages**: `Python`, `C++` , `C`
+- **Languages**: `C++` , `C` , `Python`
 
 - **Frameworks**: `Flask` , `YOLO`
 
