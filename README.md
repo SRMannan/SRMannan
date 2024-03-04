@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **SRMannan/SRMannan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👩‍💻 Hello World! I'm Sharanya Mannan
+# 👩‍💻 Hello There! I'm Sharanya Mannan
 #### ML enthusiast , Competitive Programmer. Let's code the future! 🚀
 #### 🌱 Skills: ML | OpenCV | Git | Flask | Data Structures and Algorithms
 
