@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 ### :gear: My skills include:
 
-- **Languages**: `Python`, `C++`
+- **Languages**: `Python`, `C++` , `C`
 
-- **Frameworks**: `Flask`
+- **Frameworks**: `Flask` , `YOLO`
 
 - **Algorithms** , **Data-structures**
     
