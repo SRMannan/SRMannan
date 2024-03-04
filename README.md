@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on python projects.
 - 📫 How to reach me: Connect with me on **[Linkedin](https://www.linkedin.com/in/sharanya-mannan-467937231/)**  
 - 💬 Ask me about Algorithms, Data Structure , Python , C++
+- :camera: Freezing moments through my lens
 - 🏍️ Road Warrior Dev: When not optimizing code, I'm conquering roads on my motorcycle. Each mile ridden is a metaphorical bug fixed on the journey of life. 🛣️
-- ⚡ Fun fact: 🎸 Code and Chords: I'm a closet musician. When not debugging, you might catch me shredding some riffs on My Electric Guitar.. 
+- ⚡ Fun fact: 🎸I'm a closet musician. When not debugging, you might catch me shredding some riffs on My Electric Guitar.. 
 
