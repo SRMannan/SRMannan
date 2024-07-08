@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 # 👩‍💻 Hello There! I'm Sharanya Mannan
 #### ML enthusiast , Competitive Programmer. Let's code the future! 🚀
 #### 🌱 Skills: ML | OpenCV | Git | Flask | Data Structures and Algorithms
@@ -24,7 +25,21 @@ Here are some ideas to get you started:
 
 ### :gear: My skills include:
 
-- **Languages**: `C++` , `C` , `Python`
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/><img src="https://media.giphy.com/media/ztl9x7JlhSlU4MWD6h/giphy.gif" alt="c" width="50" height="50"/> <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="python" width="45" height="45"/> </p>
+
+<p align="center">
+<img src = "https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" alt = "Bootstrap" width = "50" height = "50"/>
+<img src="https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png" alt="Flask" width="100" height="50"/>
+
+
+<p align="center">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt = "SQL" width = "70" height = "50"/>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" alt = "Numpy" width = "80" height = "70"/>
+<img src = "https://i.redd.it/c6h7rok9c2v31.jpg" alt = "Pandas" width = "150" height = "45"/>
+
+ 
+ - **Languages**: `C++` , `C` , `Python`
 
 - **Frameworks**: `Flask` , `YOLO`
 
