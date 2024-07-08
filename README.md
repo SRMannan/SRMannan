@@ -25,8 +25,16 @@ Here are some ideas to get you started:
 
 ### :gear: My skills include:
 
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/><img src="https://media.giphy.com/media/ztl9x7JlhSlU4MWD6h/giphy.gif" alt="c" width="50" height="50"/> <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="python" width="45" height="45"/> </p>
+
+<p align="center">
+ <img src = "https://assets.leetcode.com/static_assets/others/LeetCode_logo_black.png" alt = "LC" width = "50" height = "50"/>
+ <img src="https://sta.codeforces.com/s/76921/images/codeforces-logo.png" alt="Codeforces" width="150" height="50"/>
+ <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" alt="GeeksforGeeks" width="100" height="50"/>
+
+
 
 <p align="center">
 <img src = "https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" alt = "Bootstrap" width = "50" height = "50"/>
