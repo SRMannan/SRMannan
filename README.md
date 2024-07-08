@@ -23,7 +23,11 @@ Here are some ideas to get you started:
 #### :school_satchel: MSIT Delhi
 
  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@SharanyaMannan&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/sharanya-mannan-467937231/)
- [![Facebook](https://img.shields.io/static/v1.svg?label=Codeforces&message=@SharanyaMannan&logo=Codeforces&style=flat&color=green)](https://codeforces.com/profile/SharanyaRMannan)
+ [![Codeforces](https://img.shields.io/static/v1.svg?label=Codeforces&message=@SharanyaMannan&logo=Codeforces&style=flat&color=green)](https://codeforces.com/profile/SharanyaRMannan)
+ [![HackerRank](https://img.shields.io/static/v1.svg?label=HackerRank&message=@sharanyamannan&logo=HackerRank&style=flat&color=green)](https://www.hackerrank.com/profile/sharanyamannan)
+
+
+
 
 ### :gear: My skills include:
 
@@ -53,9 +57,9 @@ Here are some ideas to get you started:
  
  - **Languages**: `C++` , `C` , `Python`
 
-- **Frameworks**: `Flask` , `YOLO`
+- **Frameworks**: `Flask` , `YOLO`, `BOOTSTRAP`
 
-- **Algorithms** , **Data-structures**
+- **Algorithms** , **Data-structures** , **SQL**
     
 - 👯 I’m looking to collaborate on python projects.
 - 📫 How to reach me: Connect with me on **[Linkedin](https://www.linkedin.com/in/sharanya-mannan-467937231/)**  
