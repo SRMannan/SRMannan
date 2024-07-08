@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Giphy](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)
+
 
 # 👩‍💻 Hello There! I'm Sharanya Mannan
 #### ML enthusiast , Competitive Programmer. Let's code the future! 🚀
