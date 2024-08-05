@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" alt = "Numpy" width = "80" height = "70"/>
 <img src = "https://i.redd.it/c6h7rok9c2v31.jpg" alt = "Pandas" width = "150" height = "45"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SRMannan&layout=donut)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SRMannan&hide_progress=true)
  
  - **Languages**: `C++` , `C` , `Python`
 
