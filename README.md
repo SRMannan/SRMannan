@@ -25,20 +25,22 @@ Here are some ideas to get you started:
 [![HackerRank](https://img.shields.io/static/v1.svg?label=HackerRank&message=@sharanyamannan&logo=HackerRank&style=flat&color=green)](https://www.hackerrank.com/profile/sharanyamannan)
 
 ### :gear: My skills include:
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
-  <img src="https://media.giphy.com/media/ztl9x7JlhSlU4MWD6h/giphy.gif" alt="c" width="50" height="50"/>
+  <img src="https://media.giphy.com/media/ztl9x7JlhSlU4MWD6h/giphy.gif" alt="c" width="45" height="45"/>
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="python" width="45" height="45"/>
-  <img src="https://assets.leetcode.com/static_assets/others/LeetCode_logo_black.png" alt="LeetCode" width="50" height="50"/>
-  <img src="https://sta.codeforces.com/s/76921/images/codeforces-logo.png" alt="Codeforces" width="150" height="50"/>
-  <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" alt="GeeksforGeeks" width="100" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank" width="70" height="50"/>
-  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" alt="Bootstrap" width="50" height="50"/>
-  <img src="https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png" alt="Flask" width="100" height="50"/>
+  <img src="https://assets.leetcode.com/static_assets/others/LeetCode_logo_black.png" alt="LeetCode" width="45" height="45"/>
+  <img src="https://sta.codeforces.com/s/76921/images/codeforces-logo.png" alt="Codeforces" width="120" height="45"/>
+  <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" alt="GeeksforGeeks" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank" width="45" height="45"/>
+  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" alt="Bootstrap" width="45" height="45"/>
+  <img src="https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png" alt="Flask" width="90" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="70" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" alt="Numpy" width="80" height="70"/>
-  <img src="https://i.redd.it/c6h7rok9c2v31.jpg" alt="Pandas" width="150" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" alt="Numpy" width="80" height="45"/>
+  <img src="https://i.redd.it/c6h7rok9c2v31.jpg" alt="Pandas" width="100" height="45"/>
 </p>
+
 
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRMannan&hide_progress=true" alt="Top Langs" style="width: 48%;"/>
