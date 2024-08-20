@@ -46,15 +46,21 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/SRMannan/Vehicle_Det_OpenCV">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SRMannan&repo=Vehicle_Det_OpenCV" alt="Vehicle_Det_OpenCV" style="width: 30%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SRMannan&repo=Vehicle_Det_OpenCV" alt="Vehicle_Det_OpenCV" style="width: 45%;"/>
   </a>
   <a href="https://github.com/SRMannan/SpamSense">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SRMannan&repo=SpamSense" alt="SpamSense" style="width: 30%;"/>
-  </a>
-  <a href="https://github.com/SRMannan/Automated_maskDet_DS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SRMannan&repo=Automated_maskDet_DS" alt="Automated_maskDet_DS" style="width: 30%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SRMannan&repo=SpamSense" alt="SpamSense" style="width: 45%;"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/SRMannan/Automated_maskDet_DS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SRMannan&repo=Automated_maskDet_DS" alt="Automated_maskDet_DS" style="width: 45%;"/>
+  </a>
+  <a href="https://github.com/DipinSharma/CodeSentinels">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DipinSharma&repo=CodeSentinels" alt="TechHealth" style="width: 45%;"/>
+  </a>
+</p>
+
 
 
 ### Languages & Frameworks
