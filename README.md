@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 | 🚀 Project | ⚙️ Tech Stack | ✨ Highlights |
 |:----------|:-------------|:-------------|
 | **[🏸 BadmintonProScore](https://github.com/SRMannan/BadmintonProScore)** | `Kotlin` `Wear OS` | Real-time badminton score tracking on smartwatches |
-| **[🩺 Hindi Clinical NER]([YOUR_REPO_LINK](https://github.com/DipinSharma/CodeSentinels))** | `Python` `SpaCy` | Medical entity extraction from Hindi doctor-patient dialogues |
+| **[🩺 Hindi Clinical NER](https://github.com/DipinSharma/CodeSentinels)** | `Python` `SpaCy` | Medical entity extraction from Hindi doctor-patient dialogues |
 | **[🚗 SpeedSense](https://github.com/SRMannan/Vehicle_Det_OpenCV)** | `OpenCV` `Python` `YOLO` | Vehicle tracking, speed estimation, and ANPR |
 
 
