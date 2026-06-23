@@ -42,24 +42,14 @@ Here are some ideas to get you started:
 </p>
 
 
-### 🔧 My Projects:
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/SRMannan/Vehicle_Det_OpenCV">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SRMannan&repo=Vehicle_Det_OpenCV" alt="Vehicle_Det_OpenCV" style="width: 45%;"/>
-  </a>
-  <a href="https://github.com/SRMannan/SpamSense">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SRMannan&repo=SpamSense" alt="SpamSense" style="width: 45%;"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/SRMannan/Automated_maskDet_DS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SRMannan&repo=Automated_maskDet_DS" alt="Automated_maskDet_DS" style="width: 45%;"/>
-  </a>
-  <a href="https://github.com/DipinSharma/CodeSentinels">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DipinSharma&repo=CodeSentinels" alt="TechHealth" style="width: 45%;"/>
-  </a>
-</p>
+| 🚀 Project | ⚙️ Tech Stack | ✨ Highlights |
+|:----------|:-------------|:-------------|
+| **[🏸 BadmintonProScore](https://github.com/SRMannan/BadmintonProScore)** | `Kotlin` `Wear OS` | Real-time badminton score tracking on smartwatches |
+| **[🩺 Hindi Clinical NER](YOUR_REPO_LINK)** | `Python` `SpaCy` | Medical entity extraction from Hindi doctor-patient dialogues |
+| **[🏥 TeleHealth](https://github.com/DipinSharma/CodeSentinels)** | `React` `Flask` `SpaCy` | Appointment booking, video consultation, prescription generation |
+| **[🚗 Vehicle Detection](https://github.com/SRMannan/Vehicle_Det_OpenCV)** | `OpenCV` `Python` `YOLO` | Vehicle tracking, speed estimation, and ANPR |
 
 
 
